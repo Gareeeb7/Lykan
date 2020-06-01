@@ -1,2 +1,0 @@
-# Lykan
-Python Package Repository
